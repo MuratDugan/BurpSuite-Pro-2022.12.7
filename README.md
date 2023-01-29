@@ -27,7 +27,7 @@ Linux falan bilmem ben cahilim bana anlat diyorsanız.
 
 4-)   BURP İNDİRİYORUZ. 
 wget "https://portswigger.net/burp/releases/download?product=pro&type=Jar&version=2022.12.7" -O burpsuite_pro_v2022.12.7.jar
-
+ 
 *eğer indirme verileri görünmüyor ise arkaplanda iniyordur terminal sizden komut bekleyene kadar bekleyin...
 
 5-)   java -jar burploader.jar
