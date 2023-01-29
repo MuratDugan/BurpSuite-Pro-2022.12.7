@@ -23,7 +23,7 @@ Linux falan bilmem ben cahilim bana anlat diyorsanız.
 
 2-)   git clone https://github.com/MuratDugan/BurpProCracked.git 
 
-3-)   cd BurpProCracked
+3-)   cd BurpSuite-Pro-Crack-2022.12.7/
 
 4-)   BURP İNDİRİYORUZ. 
 wget "https://portswigger.net/burp/releases/download?product=pro&type=Jar&version=2022.12.7" -O burpsuite_pro_v2022.12.7.jar
@@ -57,7 +57,7 @@ I don't know about Linux, I'm ignorant, if you say tell me.
 
 2-) git clone https://github.com/MuratDugan/BurpProCracked.git
 
-3-) cd BurpProCracked
+3-) cd BurpSuite-Pro-Crack-2022.12.7/
 
 4-) DOWNLOAD BURP.
 wget "https://portswigger.net/burp/releases/download?product=pro&type=Jar&version=2022.12.7" -O burpsuite_pro_v2022.12.7.jar
