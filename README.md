@@ -21,9 +21,9 @@ Linux falan bilmem ben cahilim bana anlat diyorsanız.
 
 1-)   Burp dosyalarının nereye inmesini istiyorsanız oraya gidin örn:    cd /home/requ/Desktop/tools/
 
-2-)   git clone https://github.com/MuratDugan/BurpProCracked.git 
+2-)   git clone https://github.com/MuratDugan/BurpSuite-Pro-2022.12.7.git 
 
-3-)   cd BurpSuite-Pro-Crack-2022.12.7/
+3-)   cd BurpSuite-Pro-2022.12.7
 
 4-)   BURP İNDİRİYORUZ. 
 wget "https://portswigger.net/burp/releases/download?product=pro&type=Jar&version=2022.12.7" -O burpsuite_pro_v2022.12.7.jar
@@ -55,9 +55,9 @@ I don't know about Linux, I'm ignorant, if you say tell me.
 
 1-) Go to where you want the burp files to download, eg: cd /home/requ/Desktop/tools/
 
-2-) git clone https://github.com/MuratDugan/BurpProCracked.git
+2-) git clone https://github.com/MuratDugan/BurpSuite-Pro-2022.12.7.git
 
-3-) cd BurpSuite-Pro-Crack-2022.12.7/
+3-) cd BurpSuite-Pro-2022.12.7
 
 4-) DOWNLOAD BURP.
 wget "https://portswigger.net/burp/releases/download?product=pro&type=Jar&version=2022.12.7" -O burpsuite_pro_v2022.12.7.jar
